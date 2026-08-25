@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="||---|ES| SPAIN FHD |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||---|ES| SPAIN FHD |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3359
+#EXTINF:-1 tvg-ID="Hashtag0.es" tvg-name="|ES| #0 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/originales-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| #0 FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10330
+#EXTINF:-1 tvg-ID="7tv.es" tvg-name="|ES| 7RM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/7TVRM.png" group-title="BOUQUET ESPAGNE",|ES| 7RM FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10311
+#EXTINF:-1 tvg-ID="A3seriesHD.es" tvg-name="|ES| A3 SERIES FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/atreseries-es.png" group-title="BOUQUET ESPAGNE",|ES| A3 SERIES FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10320
+#EXTINF:-1 tvg-ID="AMC.es" tvg-name="|ES| AMC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="BOUQUET ESPAGNE",|ES| AMC FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10317
+#EXTINF:-1 tvg-ID="AXNhd.es" tvg-name="|ES| AXN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/axn-es.png" group-title="BOUQUET ESPAGNE",|ES| AXN FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10316
+#EXTINF:-1 tvg-ID="AXNWhite.es" tvg-name="|ES| AXN WHITE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/axn-white-es.png" group-title="BOUQUET ESPAGNE",|ES| AXN WHITE FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10315
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M+ LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/BeinLaLiga.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10313
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| BEIN SPORTS ESPANAA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="BOUQUET ESPAGNE",|ES| BEIN SPORTS ESPANAA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10314
+#EXTINF:-1 tvg-ID="BeMadTV.es" tvg-name="|ES| BE MAD FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/be-mad-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| BE MAD FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10310
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CLAN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/clan-es.png" group-title="BOUQUET ESPAGNE",|ES| CLAN FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10309
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| COSMO FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cosmo-es.png" group-title="BOUQUET ESPAGNE",|ES| COSMO FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10308
+#EXTINF:-1 tvg-ID="M.Accion.es" tvg-name="|ES| MOVISTAR ACCION FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/accion-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ACCION FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10325
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR CINEDOC&ROLL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cine-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR CINEDOC&ROLL FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10326
+#EXTINF:-1 tvg-ID="M.Comedia.es" tvg-name="|ES| MOVISTAR COMEDIA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedia-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR COMEDIA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10324
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR SERIESMANIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/400px-Movistar_Seriesman%C3%ADa.svg.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR SERIESMANIA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10323
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TCM FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tcm-es.png" group-title="BOUQUET ESPAGNE",|ES| TCM FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10312
+#EXTINF:-1 tvg-ID="Antena3.es" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena-3-es.png" group-title="BOUQUET ESPAGNE",|ES| ANTENA 3 FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5434
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| M+ LA LIGA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-hdr-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5417
+#EXTINF:-1 tvg-ID="ComedyCentral.es" tvg-name="|ES| COMEDY CENTRAL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedy-central-es.png" group-title="BOUQUET ESPAGNE",|ES| COMEDY CENTRAL FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5426
+#EXTINF:-1 tvg-ID="Cuatro.es" tvg-name="|ES| CUATRO FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cuatro-es.png" group-title="BOUQUET ESPAGNE",|ES| CUATRO FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5433
+#EXTINF:-1 tvg-ID="Hollywood.es" tvg-name="|ES| HOLLYWOOD FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/canal-hollywood-es.png" group-title="BOUQUET ESPAGNE",|ES| HOLLYWOOD FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5424
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LA 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png" group-title="BOUQUET ESPAGNE",|ES| LA 1 FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5435
+#EXTINF:-1 tvg-ID="M.CineEspanol.es" tvg-name="|ES| MOVISTAR DCINE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cine-espanol-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR DCINE FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5429
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR XTRA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/2560px-Movistar_Xtra.svg.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR XTRA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5428
+#EXTINF:-1 tvg-ID="Scifi.es" tvg-name="|ES| SYFY FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/syfy-es.png" group-title="BOUQUET ESPAGNE",|ES| SYFY FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5423
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TELECINCO FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/telecinco-es.png" group-title="BOUQUET ESPAGNE",|ES| TELECINCO FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5432
+#EXTINF:-1 tvg-ID="NationalGeographic.es" tvg-name="|ES| NATIONAL GEOGRAPHIC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-plus-uk.png" group-title="BOUQUET ESPAGNE",|ES| NATIONAL GEOGRAPHIC FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10345
+#EXTINF:-1 tvg-ID="TNT.es" tvg-name="|ES| TNT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tnt-es.png" group-title="BOUQUET ESPAGNE",|ES| TNT FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/5422
+#EXTINF:-1 tvg-ID="Golf.es" tvg-name="|ES| MOVISTAR GOLF FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/golf-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR GOLF FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10900
+#EXTINF:-1 tvg-ID="" tvg-name="||----|ES| ESPAGNE |ES|----||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||----|ES| ESPAGNE |ES|----||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3273
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| FDF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fdf-es.png" group-title="BOUQUET ESPAGNE",|ES| FDF HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/9542
+#EXTINF:-1 tvg-ID="LA2.es" tvg-name="|ES| LA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-1-es.png" group-title="BOUQUET ESPAGNE",|ES| LA 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3182
+#EXTINF:-1 tvg-ID="LA2.es" tvg-name="|ES| LA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tve-2-es.png" group-title="BOUQUET ESPAGNE",|ES| LA 2 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3183
+#EXTINF:-1 tvg-ID="TV3cat.es" tvg-name="|ES| TV3 CAT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tv3-cat-es.png" group-title="BOUQUET ESPAGNE",|ES| TV3 CAT HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3589
+#EXTINF:-1 tvg-ID="Antena3.es" tvg-name="|ES| ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena-3-es.png" group-title="BOUQUET ESPAGNE",|ES| ANTENA 3 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3184
+#EXTINF:-1 tvg-ID="Cuatro.es" tvg-name="|ES| CUATRO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cuatro-es.png" group-title="BOUQUET ESPAGNE",|ES| CUATRO HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3277
+#EXTINF:-1 tvg-ID="Telecinco.es" tvg-name="|ES| TELECINCO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/telecinco-es.png" group-title="BOUQUET ESPAGNE",|ES| TELECINCO HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3141
+#EXTINF:-1 tvg-ID="LaSexta.sp" tvg-name="|ES| LA SEXTA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/lasexta-es.png" group-title="BOUQUET ESPAGNE",|ES| LA SEXTA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3185
+#EXTINF:-1 tvg-ID="TCM.es" tvg-name="|ES| TCM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tcm-es.png" group-title="BOUQUET ESPAGNE",|ES| TCM HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3253
+#EXTINF:-1 tvg-ID="324.es" tvg-name="|ES| CANAL 24 HORAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/24h-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL 24 HORAS HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3242
+#EXTINF:-1 tvg-ID="Teledeporte.es" tvg-name="|ES| TELEDEPORTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| TELEDEPORTE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3976
+#EXTINF:-1 tvg-ID="AndaluciaTVsat.es" tvg-name="|ES| ANDALUCIA TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/andalucia-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| ANDALUCIA TV HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3974
+#EXTINF:-1 tvg-ID="TVG.es" tvg-name="|ES| TV GALICIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/galicia-es.png" group-title="BOUQUET ESPAGNE",|ES| TV GALICIA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3139
+#EXTINF:-1 tvg-ID="" tvg-name="||----|ES| CINE |ES| ----||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||----|ES| CINE |ES| ----||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3630
+#EXTINF:-1 tvg-ID="Paramount.es" tvg-name="|ES| PARAMOUNT CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paramount-channel-fr.png" group-title="BOUQUET ESPAGNE",|ES| PARAMOUNT CHANNEL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4040
+#EXTINF:-1 tvg-ID="M.Accion.es" tvg-name="|ES| MOVISTAR ACCION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/accion-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ACCION HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3198
+#EXTINF:-1 tvg-ID="M.Comedia.es" tvg-name="|ES| MOVISTAR COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedia-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR COMEDIA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3152
+#EXTINF:-1 tvg-ID="M.CineEspanol.es" tvg-name="|ES| MOVISTAR DCINE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cine-espanol-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR DCINE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3151
+#EXTINF:-1 tvg-ID="M.Estrenos.es" tvg-name="|ES| MOVISTAR ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/2880px-Movistar_Estrenos.svg.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ESTRENOS HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3190
+#EXTINF:-1 tvg-ID="Hollywood.es" tvg-name="|ES| HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/canal-hollywood-es.png" group-title="BOUQUET ESPAGNE",|ES| HOLLYWOOD HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3268
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR XTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1280px-Movistar_Xtra.svg.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR XTRA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3153
+#EXTINF:-1 tvg-ID="TNT.es" tvg-name="|ES| TNT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/tnt-es.png" group-title="BOUQUET ESPAGNE",|ES| TNT HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3140
+#EXTINF:-1 tvg-ID="" tvg-name="||---|ES| ENTRETENI |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||---|ES| ENTRETENI |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3634
+#EXTINF:-1 tvg-ID="Energy.es" tvg-name="|ES| ENERGY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/energy-es.png" group-title="BOUQUET ESPAGNE",|ES| ENERGY HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3972
+#EXTINF:-1 tvg-ID="Nova.es" tvg-name="|ES| NOVA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/nova-es.png" group-title="BOUQUET ESPAGNE",|ES| NOVA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3975
+#EXTINF:-1 tvg-ID="Neox.es" tvg-name="|ES| NEOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/neox-es.png" group-title="BOUQUET ESPAGNE",|ES| NEOX HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3927
+#EXTINF:-1 tvg-ID="AMC.es" tvg-name="|ES| AMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="BOUQUET ESPAGNE",|ES| AMC HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3679
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| STAR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fox-es.png" group-title="BOUQUET ESPAGNE",|ES| STAR HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3194
+#EXTINF:-1 tvg-ID="FoxLife.es" tvg-name="|ES| FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/fox-life-es.png" group-title="BOUQUET ESPAGNE",|ES| FOX LIFE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3195
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR CINE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cine-espanol-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR CINE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10271
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR CINEDOC&ROLL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cine-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR CINEDOC&ROLL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10286
+#EXTINF:-1 tvg-ID="M.Series.es" tvg-name="|ES| MOVISTAR SERIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/series-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR SERIES HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3149
+#EXTINF:-1 tvg-ID="M.Series.es" tvg-name="|ES| MOVISTAR SERIESMANIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/series-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR SERIESMANIA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3148
+#EXTINF:-1 tvg-ID="M.Drama.es" tvg-name="|ES| MOVISTAR DRAMA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/drama-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR DRAMA FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/9539
+#EXTINF:-1 tvg-ID="M.Drama.es" tvg-name="|ES| MOVISTAR DRAMA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/drama-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR DRAMA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/9540
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR SERIESMANIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/series-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR SERIESMANIA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/9541
+#EXTINF:-1 tvg-ID="AXNhd.es" tvg-name="|ES| AXN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/axn-es.png" group-title="BOUQUET ESPAGNE",|ES| AXN HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3259
+#EXTINF:-1 tvg-ID="AXNWhite.es" tvg-name="|ES| AXN WHITE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/axn-white-es.png" group-title="BOUQUET ESPAGNE",|ES| AXN WHITE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3260
+#EXTINF:-1 tvg-ID="Scifi.es" tvg-name="|ES| SYFY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/syfy-es.png" group-title="BOUQUET ESPAGNE",|ES| SYFY HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3267
+#EXTINF:-1 tvg-ID="Calle13.es" tvg-name="|ES| CALLE 13 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/calle-13-es.png" group-title="BOUQUET ESPAGNE",|ES| CALLE 13 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3197
+#EXTINF:-1 tvg-ID="ComedyCentral.es" tvg-name="|ES| COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedy-central-es.png" group-title="BOUQUET ESPAGNE",|ES| COMEDY CENTRAL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3196
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| COSMO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/cosmo-es.png" group-title="BOUQUET ESPAGNE",|ES| COSMO HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3236
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CANAL COCINA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/canal-cocina-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL COCINA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3186
+#EXTINF:-1 tvg-ID="CanalPlusToros.es" tvg-name="|ES| CANAL TOROS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/toros-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL TOROS HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3189
+#EXTINF:-1 tvg-ID="" tvg-name="||----|ES| DEPORTES |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||----|ES| DEPORTES |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3631
+#EXTINF:-1 tvg-ID="GOL.es" tvg-name="|ES| GOL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/gol-es.png" group-title="BOUQUET ESPAGNE",|ES| GOL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3928
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LIGA 123 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| LIGA 123 FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4044
+#EXTINF:-1 tvg-ID="M.LaLiga1.es" tvg-name="|ES| M+ LA LIGA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-hdr-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3191
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR DEPORTES 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/deportes-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR DEPORTES 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3155
+#EXTINF:-1 tvg-ID="M.LigaCampeones.es" tvg-name="|ES| MOVISTAR LIGA CAMPEONES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/liga-de-campeones-hdr-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR LIGA CAMPEONES HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10284
+#EXTINF:-1 tvg-ID="Vamos.es" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/vamos-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR VAMOS FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3154
+#EXTINF:-1 tvg-ID="GOL.es" tvg-name="|ES| CANAL GOL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/gol-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL GOL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3192
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| BEIN-SPORT SPAIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Bein_Sports.png" group-title="BOUQUET ESPAGNE",|ES| BEIN-SPORT SPAIN
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3258
+#EXTINF:-1 tvg-ID="M.LaLigaUHD.es" tvg-name="|ES| M+ LA LIGA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-hdr-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3636
+#EXTINF:-1 tvg-ID="M.LaLiga2.es" tvg-name="|ES| M+ LA LIGA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-2-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA 2 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3637
+#EXTINF:-1 tvg-ID="M.LaLiga3.es" tvg-name="|ES| M+ LA LIGA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-3-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| M+ LA LIGA 3 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3638
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| LA LIGATV BAR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-hdr-2-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| LA LIGATV BAR HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3635
+#EXTINF:-1 tvg-ID="RealMadridTV.es" tvg-name="|ES| REAL MADRID TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/real-madrid-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| REAL MADRID TV HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3143
+#EXTINF:-1 tvg-ID="BarcaTV.es" tvg-name="|ES| BARCA TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/barca-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| BARCA TV HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3255
+#EXTINF:-1 tvg-ID="Golf.es" tvg-name="|ES| MOVISTAR GOLF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/golf-por-movistar-plus-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR GOLF HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3639
+#EXTINF:-1 tvg-ID="DAZN_F1.es" tvg-name="|ES| MOVISTAR F1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-f1-es.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR F1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3147
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR FUTBOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/400px-Movistar_F%C3%BAtbol.svg.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR FUTBOL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3150
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR MOTO GP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR MOTO GP HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3146
+#EXTINF:-1 tvg-ID="Eurosport1.es" tvg-name="|ES| EUROSPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="BOUQUET ESPAGNE",|ES| EUROSPORT 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3222
+#EXTINF:-1 tvg-ID="Eurosport2.es" tvg-name="|ES| EUROSPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="BOUQUET ESPAGNE",|ES| EUROSPORT 2 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3221
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-plus-us.png" group-title="BOUQUET ESPAGNE",|ES| ESPN
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3622
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| CANAL 26 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/canal-11-la-palma-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL 26 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3585
+#EXTINF:-1 tvg-ID="" tvg-name="||---|ES| Cultu Y Decov |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||---|ES| Cultu Y Decov |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3965
+#EXTINF:-1 tvg-ID="DMAX.es" tvg-name="|ES| DMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dmax-es.png" group-title="BOUQUET ESPAGNE",|ES| DMAX HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10285
+#EXTINF:-1 tvg-ID="SundanceTV.fr" tvg-name="|ES| SUNDANCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/sundance-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| SUNDANCE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4042
+#EXTINF:-1 tvg-ID="NationalGeographic.es" tvg-name="|ES| NATIONAL GEOGRAPHIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/national-geographic-es.png" group-title="BOUQUET ESPAGNE",|ES| NATIONAL GEOGRAPHIC HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3145
+#EXTINF:-1 tvg-ID="NatGeoWild.es" tvg-name="|ES| NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/national-geographic-wild-es.png" group-title="BOUQUET ESPAGNE",|ES| NAT GEO WILD HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3144
+#EXTINF:-1 tvg-ID="DisneyChannel.es" tvg-name="|ES| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png" group-title="BOUQUET ESPAGNE",|ES| DISCOVERY CHANNEL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3214
+#EXTINF:-1 tvg-ID="DMAX.es" tvg-name="|ES| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png" group-title="BOUQUET ESPAGNE",|ES| DISCOVERY CHANNEL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4038
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| ODISEA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/odisea-es.png" group-title="BOUQUET ESPAGNE",|ES| ODISEA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3265
+#EXTINF:-1 tvg-ID="Decasa.es" tvg-name="|ES| CANAL DECASA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/decasa-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL DECASA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3193
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/langfr-560px-A%26E_Network_logo.svg.png" group-title="BOUQUET ESPAGNE",|ES| A&E HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3239
+#EXTINF:-1 tvg-ID="CazayPesca.es" tvg-name="|ES| CAZA PESCA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/caza-y-pesca-es.png" group-title="BOUQUET ESPAGNE",|ES| CAZA PESCA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3215
+#EXTINF:-1 tvg-ID="CrimeAndInvestigation.es" tvg-name="|ES| CRIME INVESTIGATION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/investigation-discovery-plus-uk.png" group-title="BOUQUET ESPAGNE",|ES| CRIME INVESTIGATION HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3212
+#EXTINF:-1 tvg-ID="Mega.es" tvg-name="|ES| MEGA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mega-es.png" group-title="BOUQUET ESPAGNE",|ES| MEGA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3587
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| HISTORIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/historia-es.png" group-title="BOUQUET ESPAGNE",|ES| HISTORIA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3929
+#EXTINF:-1 tvg-ID="Trece.es" tvg-name="|ES| TRECE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/trece-es.png" group-title="BOUQUET ESPAGNE",|ES| TRECE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3588
+#EXTINF:-1 tvg-ID="" tvg-name="||---|ES| NINOS |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||---|ES| NINOS |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3640
+#EXTINF:-1 tvg-ID="BabyTV.es" tvg-name="|ES| BABY TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/baby-tv-es.png" group-title="BOUQUET ESPAGNE",|ES| BABY TV HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4330
+#EXTINF:-1 tvg-ID="ClanTVE.es" tvg-name="|ES| CLAN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/clan-es.png" group-title="BOUQUET ESPAGNE",|ES| CLAN HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3243
+#EXTINF:-1 tvg-ID="ClanTVE.es" tvg-name="|ES| CLAN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/clan-es.png" group-title="BOUQUET ESPAGNE",|ES| CLAN HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3973
+#EXTINF:-1 tvg-ID="Panda.es" tvg-name="|ES| CANAL PANDA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/canal-panda-es.png" group-title="BOUQUET ESPAGNE",|ES| CANAL PANDA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3188
+#EXTINF:-1 tvg-ID="DisneyChannel.es" tvg-name="|ES| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/disney-channel-es.png" group-title="BOUQUET ESPAGNE",|ES| DISNEY CHANNEL HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3247
+#EXTINF:-1 tvg-ID="DisneyChannel.es" tvg-name="|ES| DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/disney-jr-fr.png" group-title="BOUQUET ESPAGNE",|ES| DISNEY JUNIOR HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3966
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| DISNEY XD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/disney-channel-fr.png" group-title="BOUQUET ESPAGNE",|ES| DISNEY XD HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3249
+#EXTINF:-1 tvg-ID="Nickelodeon.es" tvg-name="|ES| NICKELODEON HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/nickelodeon-es.png" group-title="BOUQUET ESPAGNE",|ES| NICKELODEON HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3931
+#EXTINF:-1 tvg-ID="NickJunior.es" tvg-name="|ES| NICK JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/nick-jr-es.png" group-title="BOUQUET ESPAGNE",|ES| NICK JUNIOR HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3933
+#EXTINF:-1 tvg-ID="Panda.es" tvg-name="|ES| PANDA HD" tvg-logo="http://x.pure-redirect.com/1_0_1_75FF_408_1_C00000_0_0_0.png" group-title="BOUQUET ESPAGNE",|ES| PANDA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4043
+#EXTINF:-1 tvg-ID="Boing.es" tvg-name="|ES| BOING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/boing-es.png" group-title="BOUQUET ESPAGNE",|ES| BOING HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3246
+#EXTINF:-1 tvg-ID="" tvg-name="||---|ES| Musica |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||---|ES| Musica |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3648
+#EXTINF:-1 tvg-ID="MezzoLiveHD.fr" tvg-name="|ES| MEZZO LIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mezzo-live-es.png" group-title="BOUQUET ESPAGNE",|ES| MEZZO LIVE HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/9581
+#EXTINF:-1 tvg-ID="MTVLiveHD.es" tvg-name="|ES| MTV ESPANA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-es.png" group-title="BOUQUET ESPAGNE",|ES| MTV ESPANA HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3642
+#EXTINF:-1 tvg-ID="Divinity.es" tvg-name="|ES| DIVINITY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/divinity-es.png" group-title="BOUQUET ESPAGNE",|ES| DIVINITY HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/4039
+#EXTINF:-1 tvg-ID="" tvg-name="||----|ES| Taquilla |ES|---||" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/1024px-Spain_flag_icon.svg.png" group-title="BOUQUET ESPAGNE",||----|ES| Taquilla |ES|---||
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3819
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3643
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 2 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3644
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 3 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3645
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 4 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3646
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 5 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3132
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 6 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3647
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 7 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3134
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 8 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3135
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 9 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 9 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3136
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| TAQUILLA 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Taquilla_1.png" group-title="BOUQUET ESPAGNE",|ES| TAQUILLA 10 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/3801
+#EXTINF:-1 tvg-ID="Alquiler1.es" tvg-name="|ES| MOVISTAR ALQUILER 1 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 1 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10272
+#EXTINF:-1 tvg-ID="Alquiler2.es" tvg-name="|ES| MOVISTAR ALQUILER 2 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 2 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10273
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 3 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 3 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10274
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 4 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 4 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10275
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 5 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 5 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10276
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 6 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 6 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10277
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 7 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 7 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10278
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 8 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 8 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10279
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MOVISTAR ALQUILER 9 HD" tvg-logo="https://miguia.tv/channels/big_231@2x.png" group-title="BOUQUET ESPAGNE",|ES| MOVISTAR ALQUILER 9 HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10280
+#EXTINF:-1 tvg-ID="NatGeoWild.es" tvg-name="|ES| NAT GEO WILD FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/national-geographic-wild-es.png" group-title="BOUQUET ESPAGNE",|ES| NAT GEO WILD FHD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/10346
+#EXTINF:-1 tvg-ID="" tvg-name="|ES| MUNDOTORO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/toros-es.png" group-title="BOUQUET ESPAGNE",|ES| MUNDOTORO HD
+http://hdlocal.de:8080/worldiptv.one56/yoMzARxyvcd/665034205
